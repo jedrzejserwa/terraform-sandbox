@@ -4,7 +4,7 @@ Playground for terraform infrastructure as a code.
 Creates:
 * AWS Network (VPC, Public subnet, Route table)
 * AWS SG for VPC
-* AWS EC2 t3 micro instance
+* AWS EC2 t2 micro instance
 
 ## Run:
 
